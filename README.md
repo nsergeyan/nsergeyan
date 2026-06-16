@@ -1,18 +1,30 @@
-# Hi, I'm Narek 
-
-Data Science and AI student at Leiden University. I build automated pipelines
-that combine multiple AI APIs to solve real creative problems.
-
-##  Featured projects:
-**AI Shorts Pipeline**
-An end-to-end Python pipeline that generates YouTube Shorts and TikTok videos
-from a single prompt. It chains 5 AI services: script generation (Gemini),
-video sourcing (yt-dlp), voice synthesis (ElevenLabs), transcription (Whisper),
-and music composition — then assembles the final vertical video automatically(video editing).
-
-→ Used to grow a TikTok account to 3M+ views
-→ [View the repo](https://github.com/nsergeyan/ai-shorts-pipeline)
-
-
-## Contact me
-[LinkedIn](https://www.linkedin.com/in/nsergeyan/) · sergeyan.narek@gmail.com
+#  Hi, I'm Narek                                                                                                                                                                                                
+                                                                                                                                                                                                                 
+  Data Science and AI student at Leiden University. I build automated pipelines                                                                                                                                  
+  that combine multiple AI APIs to solve real creative problems.                                                                                                                                                 
+                                                                                                                                                                                                                 
+  ## Featured projects:                                                                                                                                                                                          
+                                                                                                                                                                                                                 
+  **AI Shorts Pipeline**                                                                                                                                                                                         
+  An end-to-end Python pipeline that generates YouTube Shorts and TikTok videos                                                                                                                                  
+  from a single prompt. It chains 5 AI services: script generation (Gemini),                                                                                                                                     
+  video sourcing (yt-dlp), voice synthesis (ElevenLabs), transcription (Whisper),                                                                                                                                
+  and music composition — then assembles the final vertical video automatically.                                                                                                                                 
+                                                                                                                                                                                                                 
+  → Used to grow a TikTok account to 3M+ views                                                                                                                                                                   
+  → [View the repo](https://github.com/nsergeyan/ai-shorts-pipeline)                                                                                                                                             
+                                                                                                                                                                                                                 
+  ---                                                                                                                                                                                                            
+                                                                                                                                                                                                                 
+  **Nasdaq Navigator**                                                                                                                                                                                           
+  A full-stack trading assistant that combines 3 quantitative strategies (Break of Structure,                                                                                                                    
+  Fair Value Gaps, Opening Range Breakout) with a local LLM news analyzer to generate                                                                                                                            
+  BUY / DO NOT BUY signals on the most actively traded S&P 500 stocks.                                                                                                                                           
+                                                                                                                                                                                                                 
+  → Built as a university group project at Leiden University                                                                                                                                                     
+  → [View the repo](https://github.com/nsergeyan/tradingadviceweb)                                                                                                                                               
+                                                                                                                                                                                                                 
+  ---                                                                                                                                                                                                            
+                                                                                                                                                                                                                 
+  ## Contact me                                                                                                                                                                                                  
+  [LinkedIn](https://www.linkedin.com/in/nsergeyan/) · sergeyan.narek@gmail.com

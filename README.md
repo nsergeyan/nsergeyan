@@ -13,8 +13,6 @@ and music composition — then assembles the final vertical video automatically(
 → Used to grow a TikTok account to 3M+ views
 → [View the repo](https://github.com/nsergeyan/ai-shorts-pipeline)
 
-## 🛠 Tech I use
-Python · Gemini API · ElevenLabs · OpenAI Whisper · FFmpeg · MoviePy · NumPy
 
-## 📫 Find me
+## Contact me
 [LinkedIn](https://www.linkedin.com/in/nsergeyan/) · sergeyan.narek@gmail.com
